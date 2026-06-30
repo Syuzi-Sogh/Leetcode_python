@@ -12,4 +12,4 @@ for i in range(0, len(nums)):
     else:
         cntr = 0
 
-print(cntr)
+print(max_count)
